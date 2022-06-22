@@ -1,6 +1,7 @@
 ### Olá sou o Carlos Piaia
 
   🌱 Estudando HTML, CSS e JavaScript
+  <br/>
   👨‍💻 Programação por amor!
   
   <div align="center">
