@@ -1,6 +1,6 @@
 ### Olá sou o Carlos Piaia
 
-  🌱 Estudando HTML, CSS e JavaScript
+  🌱 HTML, CSS e JavaScript
   <br/>
   👨‍💻 Programação por amor!
   
