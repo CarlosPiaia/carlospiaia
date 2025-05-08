@@ -1,8 +1,8 @@
 ### Olá sou o Carlos Piaia
 
-  🌱 HTML, CSS e JavaScript
+  🌱 JAVAt
   <br/>
-  👨‍💻 Programação por amor!
+  👨‍💻 Evoluindo em JAVA
   
   <div align="center">
   <a href="https://github.com/carlospiaia">
